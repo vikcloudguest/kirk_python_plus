@@ -1,0 +1,31 @@
+git config --global user.email "viktor.gagach@gmail.com"
+git config --global user.name "Viktor Gagach"
+
+cat ~/.gitconfig 
+
+git init
+
+git status
+
+git branch 
+
+git add test*.py 
+
+git status 
+git diff 
+
+git commit -m 'first commit for the new files'
+
+git remove test1.py
+
+git commit -m "files are deleted"
+
+tree
+
+git status 
+git log
+
+git push origin master 
+git remote -v 
+git pull origin master 
+
