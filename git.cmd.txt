@@ -34,3 +34,8 @@ git stash - discard changes
 
 
 git reset HEAD test_file
+
+git checkout -b devnet
+git branch new_feature
+
+git push --set-upstream origin devnet 
