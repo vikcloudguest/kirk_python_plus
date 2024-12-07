@@ -54,3 +54,6 @@ We can make changes in devnet branch - and merge with main locally
 Or make cnages to devnet branch and push it to origin devnet , pull request - merge and - and make git pull from github to local repo
 
 
+# Git fetch
+git rebase
+
