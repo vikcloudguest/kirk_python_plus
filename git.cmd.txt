@@ -49,5 +49,8 @@ When two files are in conflict - we make a code review and resolve the problem.
 When conflicts are resolved we merge file on GitHub.
 After merged on github we need to pull it on local git repo from main
 git pull origin main - for both main the devnet repos
+#
+We can make changes in devnet branch - and merge with main locally
+Or make cnages to devnet branch and push it to origin devnet , pull request - merge and - and make git pull from github to local repo
 
 
