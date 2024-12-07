@@ -6,6 +6,6 @@ for n in range(1,6):
     print(f"ping {net_base}{n}")
 
 with open("ospf.cfg", 'w') as f:
-    for ospf_id in range(1,3):
+    for ospf_id in range(1,5):
         f.write(f"router ospf {ospf_id}\n")
         f.write(f"network {net_base}{n}\n")    
