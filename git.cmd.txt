@@ -36,9 +36,12 @@ git stash - discard changes
 
 git reset HEAD test_file
 
-git checkout -b devnet
-git branch new_feature
+git checkout -b devnet main - create and switch to the branch
+
+git branch ssh-feature - creates branch
+git checkout ssh-feature - switch to the branch 
 
 git push --set-upstream origin devnet 
 git push origin devnet
+
 
