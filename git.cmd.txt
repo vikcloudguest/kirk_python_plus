@@ -29,3 +29,8 @@ git push origin master
 git remote -v 
 git pull origin master 
 
+
+git stash - discard changes
+
+
+git reset HEAD test_file
