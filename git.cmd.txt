@@ -44,6 +44,13 @@ git checkout ssh-feature - switch to the branch
 git push --set-upstream origin devnet 
 git push origin devnet
 
+git branch -r   = known remote branches
+we can sync new branches with remote origins
+
+git checkout -b new_feature origin/main
+
+
+
 When we create a pull request - we combine the changes and resolve the confilcts.
 When two files are in conflict - we make a code review and resolve the problem.
 When conflicts are resolved we merge file on GitHub.
