@@ -12,4 +12,4 @@ with open("ospf.cfg","w") as f:
             f.write(f"network {net_base}{n}\n")    
 
 ip_list = ["192.168.1.1", "192.168.1.2"]
-
+cisco_dict = {'r1': {'ip': '192.168.1.1', 'vendor': 'cisco'}}
