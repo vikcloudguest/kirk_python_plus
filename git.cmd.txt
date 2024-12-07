@@ -27,7 +27,7 @@ git log
 
 git push origin master 
 git remote -v 
-git pull origin master 
+git pull origin master - get files from github 
 
 
 git stash - discard changes
