@@ -1,5 +1,5 @@
-git config --global user.email "viktor.gagach@gmail.com"
-git config --global user.name "Viktor Gagach"
+git config --global user.email "viktor.XXXXX@gmail.com"
+git config --global user.name "Viktor XXXX"
 
 cat ~/.gitconfig 
 
