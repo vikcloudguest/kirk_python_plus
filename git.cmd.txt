@@ -39,3 +39,5 @@ git checkout -b devnet
 git branch new_feature
 
 git push --set-upstream origin devnet 
+git push origin devnet
+
