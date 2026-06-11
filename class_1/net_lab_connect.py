@@ -23,3 +23,4 @@ juniper_credentials = {}
 
 nexus_switches = []
 nexus_credentials = {}
+# we need to add connection test
